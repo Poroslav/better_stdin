@@ -1,0 +1,12 @@
+[package]
+name = "better_stdin"
+version = "0.1.0"
+edition = "2024"
+authors = [ "Poroslav <poroslavdev@gmail.com>" ]
+license = "MIT"
+description = "Simple-to-use and lightweight input lib"
+documentation = "https://docs.rs/better_stdin"
+readme = "README.md"
+keywords = [ "python", "utils", "io" ]
+
+[dependencies]

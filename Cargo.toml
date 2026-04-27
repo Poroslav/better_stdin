@@ -5,6 +5,7 @@ edition = "2024"
 authors = [ "Poroslav <poroslavdev@gmail.com>" ]
 license = "MIT"
 description = "Simple-to-use and lightweight input lib"
+repository = "https://github.com/Poroslav/better_stdin"
 documentation = "https://docs.rs/better_stdin"
 readme = "README.md"
 keywords = [ "python", "utils", "io" ]

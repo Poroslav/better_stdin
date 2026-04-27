@@ -42,15 +42,15 @@ use std::str::FromStr;
 /// let float: f64 = input("Enter a float: ");
 /// ```
 ///
-/// You can also read to String without parsing (this still does trim user input though):
+/// You can also read to `String` without parsing (this still does trim user input though):
 /// ```no_run
 /// use better_stdin::prelude::*;
 /// /* --snip-- */
 /// let user_string: String = input("Enter a string: ");
 /// ```
 ///
-/// Note that you _cannot_ parse input to &str because it doesn't implement `FromStr` trait. If you
-/// really need to read a &str, then you can convert it manually:
+/// Note that you _cannot_ parse input to `&str` because it doesn't implement `FromStr` trait. If you
+/// really need to read a `&str`, then you can convert it manually:
 /// ```no_run
 /// use better_stdin::prelude::*;
 /// /* --snip-- */

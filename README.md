@@ -8,7 +8,7 @@ the future.
 ## Getting started
 Just add:
 ```
-better_stdin = "0.1.0"
+better_stdin = "0.1.3"
 ```
 to your Cargo.toml, and
 ```
